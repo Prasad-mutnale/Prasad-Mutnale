@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Web developement projects and also Python projects
 - I'm looking to grow my skills through a projects
 - 📫 How to reach me Linkedin@PrasadMutnale
+- https://github-readme-stats.vercel.app/api?username=PrasadMutnale-exe
 
 <!---
 PrasadMutnale-exe/PrasadMutnale-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
