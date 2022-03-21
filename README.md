@@ -7,7 +7,7 @@
 - 📫 How to reach me Linkedin@PrasadMutnale
 
 
-![](https://github-readme-stats.vercel.app/api?username=prasadmutnale-exe&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadmutnale-exe&theme=codeSTACKr&show_icons=true)
 
 
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrasadMutnale-exe&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
