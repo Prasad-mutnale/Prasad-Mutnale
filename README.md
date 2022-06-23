@@ -3,7 +3,7 @@
 - 🎓 I'm pursuing computer science engineering...
 - 🌱 I’m currently learning JavaScript,Python
 - 💞️ I’m looking to collaborate on Web developement projects and also Python projects
-- 📈 I'm looking to grow my skills through a projects
+- 📈 I'm looking to grow up my skills through a projects
 - 📫 How to reach me [Linkedin@Prasadmutnale](https://www.linkedin.com/in/prasad-mutnale-b75a2b200/)
 ### "Trophies"</br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SandeepUrankar)](https://github.com/ryo-ma/github-profile-trophy)
