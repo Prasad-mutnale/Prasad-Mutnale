@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Mutnale</h1>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/>
 
 - 👀 I’m interested in Web Development
 - 🎓 I'm pursuing computer science engineering...
