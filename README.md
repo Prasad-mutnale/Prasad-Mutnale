@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prasad Mutnale</h1>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/> -->
-   <img alt="Coder GIF" align="right" height=300 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
+  <img alt="Coder GIF" align="right" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+  
 - 👀 I’m interested in Web Development
 - 🎓 I'm pursuing computer science engineering...
 - 🌱 I’m currently learning Javascript,React.
