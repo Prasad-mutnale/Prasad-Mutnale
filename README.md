@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prasad Mutnale</h1>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/> -->
+<!-- <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099"/> -->
 
+<!-- src="https://user-images.githubusercontent.com/81313711/178505109-90225068-94c7-4878-bc32-edcfff0c2c34.png" -->
 - 👀 I’m interested in Web Development
 - 🎓 I'm pursuing computer science engineering...
 - 🌱 I’m currently learning Javascript,React.
