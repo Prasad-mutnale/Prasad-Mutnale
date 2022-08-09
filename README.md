@@ -5,7 +5,7 @@
   
 - 👀 I’m interested in Web Development
 - 🎓 I'm pursuing computer science engineering...
-- 🌱 I’m currently learning Javascript,React.
+- 🌱 I’m currently learning Javascript,React.js.
 - 💞️ I’m looking to collaborate on Web developement projects.
 - 📈 I'm looking to grow up my skills through a projects.
 - 📫 How to reach me **prasadmutnale1234@gmail.com**
