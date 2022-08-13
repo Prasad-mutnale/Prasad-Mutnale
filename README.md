@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Prasad Mutnale</h1>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/> -->
@@ -11,6 +12,7 @@
 - 📈 I'm looking to grow up my skills through a projects.
 - 📫 How to reach me **prasadmutnale1234@gmail.com**
 
+<!--<img width="925" alt="Screenshot 2022-08-14 002120" src="https://user-images.githubusercontent.com/81313711/184507023-4500f168-cf7a-4d36-9b46-572f264c6cfa.png">-->
 
 ### Skills
 <p align="left">
