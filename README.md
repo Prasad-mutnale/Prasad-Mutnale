@@ -4,14 +4,13 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/> -->
 <!-- <img alt="Coder GIF" align="right" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
-  
-- 👀 I’m interested in Web Development.
 - 🎓 I'm pursuing computer science engineering.
-- 🌱 I’m currently learning Javascript,React.js.
+- 🌱 I’m currently learning Javascript,ReactJs.
 - 💞️ I’m looking to contibute on Opensource project relevant to web development.
 - 🔰 I'm Beginner in Opensource contribution.
 - 📈 I'm looking to grow up my skills through a projects.
 - 📫 How to reach me **prasadmutnale1234@gmail.com**
+- 😁 Love playing cricket🏏.
 
 <!--<img width="925" alt="Screenshot 2022-08-14 002120" src="https://user-images.githubusercontent.com/81313711/184507023-4500f168-cf7a-4d36-9b46-572f264c6cfa.png">-->
 
