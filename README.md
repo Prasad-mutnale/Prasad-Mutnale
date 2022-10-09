@@ -13,6 +13,8 @@
 - 😁 Love playing cricket🏏.
 
 <!--<img width="925" alt="Screenshot 2022-08-14 002120" src="https://user-images.githubusercontent.com/81313711/184507023-4500f168-cf7a-4d36-9b46-572f264c6cfa.png">-->
+<a href="https://www.github.com/Prasad-mutnale" target="_blank" rel="noreferrer">
+<img src="https://komarev.com/ghpvc/?username=Prasad-mutnale" alt="Prasad-mutnale" /> </a>
 
 ### Skills
 <p align="left">
