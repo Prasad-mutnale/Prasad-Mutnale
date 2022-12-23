@@ -6,7 +6,7 @@
 <!-- <img alt="Coder GIF" align="right" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
 - 🎓 I'm pursuing computer science engineering.
 - 🌱 I’m currently learning web3.js.
-- 💞️ I’m looking to contibute on Opensource project relevant to web development.
+- 💞️ I’m looking to contribute on Opensource project relevant to web development.
 - 🔰 I'm Beginner in Opensource contribution.
 - 📈 I'm looking to grow up my skills through a projects.
 - 📫 How to reach me **prasadmutnale1234@gmail.com**
