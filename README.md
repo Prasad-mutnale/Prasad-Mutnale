@@ -57,25 +57,31 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <thead>
-        <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&locale=en&theme=tokyonight" alt="Prasad's GitHub Stats" />               </td>
-            <td><img src="https://streak-stats.demolab.com/?user=Prasad-mutnale&theme=tokyonight" alt="Prasad's GitHub Stats" /></td></tr>
-        </tr>
-    </thead>
+<!-- border="0" cellpadding="0" cellspacing="0" -->
+<table align="left">
+<th>
+    <h3 align="left">Badges</h3>
+    <tr><td><img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&locale=en&theme=tokyonight" alt="Prasad's GitHub Stats" /></td></tr>
+    
+<tr><td><img src="https://streak-stats.demolab.com/?user=Prasad-mutnale&theme=tokyonight" alt="Prasad's GitHub Stats" /></td></tr> 
+    
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-mutnale&theme=tokyonight" alt="Top Languages" /></td></tr>
+</th>
 </table>
-<a href="http://www.github.com/Prasad-mutnale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad-mutnale&theme=tokyonight" /></a>
+<!-- <a href="http://www.github.com/Prasad-mutnale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad-mutnale&theme=tokyonight" /></a> -->
 
-### Badges
+<!-- ### Badges -->
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Prasad-mutnale"><img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Prasad's GitHub stats" /></a>
+<a href="http://www.github.com/Prasad-mutnale"><img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Prasad's GitHub stats" /></a> -->
 
 <!-- <b>My GitHub Streaks</b><br><br>
 <a href="http://www.github.com/Prasad-mutnale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad-mutnale&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  -->
 
+<!-- 
+<td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-mutnale&       langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+            </td> -->
 
 
