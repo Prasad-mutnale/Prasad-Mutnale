@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning web3.js.
 - 💞️ I’m looking to contribute on Opensource project relevant to web development.
 - 🔰 I'm Beginner in Opensource contribution.
-- 📈 I'm looking to grow up my skills through a projects.
+- 📈 I'm looking to grow up my skills through contributing a projects.
 - 📫 How to reach me **prasadmutnale1234@gmail.com**
 - 😁 Love playing cricket🏏.
 
