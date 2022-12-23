@@ -61,7 +61,7 @@
 <table align="left">
 <th>
 <h3 align="left">Badges</h3>
-<h2 align="left">My GitHub Stats</h2>
+<h4 align="left">My GitHub Stats</h4>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&locale=en&theme=tokyonight" alt="Prasad's GitHub Stats" /></td></tr>
     
 <tr><td><img src="https://streak-stats.demolab.com/?user=Prasad-mutnale&theme=tokyonight" alt="Prasad's GitHub Stats" /></td></tr> 
