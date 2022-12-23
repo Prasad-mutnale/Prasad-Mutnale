@@ -2,18 +2,15 @@
 <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966">
 
 <hr>
-<br>
 <h1 align="center">Hi 👋, I'm Prasad Mutnale</h1>
 <h1 align="center"> I'm passionate about Web Technology🕸️</h1>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/> -->
 <!-- <img alt="Coder GIF" align="right" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
 - 🎓 I'm pursuing computer science engineering.
-- 🌱 I’m currently learning web3.js.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to contribute on Opensource project relevant to web development.
-- 🔰 I'm Beginner in Opensource contribution.
 - 📈 I'm looking to grow up my skills through contributing a projects.
-- 📫 How to reach me **prasadmutnale1234@gmail.com**
 - 😁 Love playing cricket🏏.
 
 <!--<img width="925" alt="Screenshot 2022-08-14 002120" src="https://user-images.githubusercontent.com/81313711/184507023-4500f168-cf7a-4d36-9b46-572f264c6cfa.png">-->
