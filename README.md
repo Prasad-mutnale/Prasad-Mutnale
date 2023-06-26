@@ -1,10 +1,15 @@
 
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966">
+<!-- <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966"> -->
 <!-- <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </br> -->
-<hr>
 <h1 align="center">Hi 👋, I'm Prasad Mutnale</h1>
-<h1 align="center"> I'm passionate about Web Technology🕸️</h1>
+<h1 align="center"> I'm passionate about Web Development🕸️</h1>
+<div align="center" width="50" >
+<img src="https://github.com/Prasad-mutnale/Prasad-Mutnale/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Prasad-mutnale" width="60%" /><br/>
+    
+<hr>
+
+</div>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/PrasadMutnale-exe/PrasadMutnale-exe/blob/main/coder_vector.gif?raw=True"/> -->
 <!-- <img alt="Coder GIF" align="right" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
@@ -46,7 +51,18 @@
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&theme=tokyonight">
+
 </p>
+
+<!-- <div align="center" >
+<a  href="https://github.com/Prasad-mutnale">
+
+<img src="https://raw.githubusercontent.com/Prasad-mutnale/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/Prasad-mutnale/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/Prasad-mutnale/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+</div> -->
 <hr>
 <br>
 
