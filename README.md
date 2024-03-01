@@ -55,7 +55,7 @@
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Prasad-mutnale&show_icons=true&theme=dark">
 
 </p>
 
