@@ -44,7 +44,7 @@
 ## Github Contribution Streak 🔥 
 
 <br>
-<p align='center'> <img src= "https://streak-stats.demolab.com/?user=Prasad-mutnale&theme=tokyonight"></p>
+<p align='center'> <img src= "https://streak-stats.demolab.com/?user=Prasad-mutnale&theme=dark"></p>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Prasad-mutnale&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> -->
 
@@ -74,7 +74,7 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prasad-mutnale&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prasad-mutnale&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <!-- <p align='center'>
 <!-- <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6> -->
